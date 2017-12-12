@@ -1,0 +1,2 @@
+#This week was a great learning experience, particularly the bits about learning to use arrow functions, regex, and handlebars.
+#Is it a lot? Hell yes! But I learned a lot from my partner Michael Brown for the week as well as JB and the TAs. As a whole, the week went by pretty smoothly and I'm still praying my heart and my brains out that it'll continue to be steady.
