@@ -1,0 +1,3 @@
+#Week 7 entry
+
+#This week was probably the toughest so far, not just because of the mass refactoring, file moving, and building off of the same project so gituations are much more likely to happen, that I was stressed out to a fair degree, but also that I couldn't quite grasp it all in 1 or 2 lectures. I have to say, working with Ayanle has really helped me out in understanding the logic behind the commands, as well as writing html inside .js files and simpl leaving placeholder "slots" in the actual index.html file itself in order to render retrieved table data. I also now know better WHICH COMMANDS GO IN WHICH FILES AND WHICH DIRECTORIES THOSE FILES GO INTO. We did add a lot of extra pathways in the last 2 weeks.
