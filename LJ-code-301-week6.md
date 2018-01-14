@@ -1,0 +1,4 @@
+#Week 6 entry
+
+#I think this was the week we learned about SQL and server building; Interacting with tables and the like...?
+#I admit this was more of a challenge, but I understand the logic much better now. Just a matter of figuring out what needs to be in your server.js as opposed to your app.js and then how to properly write SQL queries in order to retrieve the proper information from the right column of the right table. I think we also learned about INNER JOIN as well this week: used to combine multiple tables which may or maynot have row(s) with the same names as in other tables you are trying to combine the data of.
